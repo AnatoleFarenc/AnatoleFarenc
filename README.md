@@ -11,4 +11,8 @@
   </tr>
 </table>
 
-<img width=990 src="https://raw.githubusercontent.com/AnatoleFarenc/AnatoleFarenc/output/snake.svg" />
+
+<img
+  src="https://raw.githubusercontent.com/AnatoleFarenc/AnatoleFarenc/output/github-snake-dark.svg"
+  alt="Mes contributions GitHub"
+/>
