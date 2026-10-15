@@ -1,9 +1,9 @@
-## Hi, I'm Anatole 👋
+## Hi, I'm Anatole
 
 <table>
   <tr>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=CaelanHehir&theme=radical" />
+      <img src="https://streak-stats.demolab.com/?user=AnatoleFarenc&theme=radical" />
     </td>
     <td valign="top">
       <img width="420" src="https://github-stats-extended.vercel.app/api/top-langs/?username=CaelanHehir&layout=compact&theme=radical" />
