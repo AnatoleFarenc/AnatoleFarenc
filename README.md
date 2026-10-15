@@ -3,10 +3,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=AnatoleFarenc&theme=radical" />
+      <img src="https://streak-stats.demolab.com/?user=AnatoleFarenc&theme=gruvbox" />
     </td>
     <td valign="top">
-      <img width="420" src="https://github-stats-extended.vercel.app/api/top-langs/?username=CaelanHehir&layout=compact&theme=radical" />
+      <img width="420" src="https://github-stats-extended.vercel.app/api/top-langs/?username=CaelanHehir&layout=compact&theme=gruvbox" />
     </td>
   </tr>
 </table>
