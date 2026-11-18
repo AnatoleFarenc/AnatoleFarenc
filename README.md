@@ -1,32 +1,27 @@
-<h1 align="center">Salut, moi c'est Anatole 👋</h1>
+<h1 align="center">Hi, I'm Anatole 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=D79921&center=true&vCenter=true&width=520&lines=Étudiant+à+42+Paris;Systèmes+%26+infrastructure;Ancien+cuisinier+reconverti+dans+le+code;À+la+recherche+d'un+stage+%2F+alternance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=D79921&center=true&vCenter=true&width=520&lines=Student+at+42+Perpignan;Systems+%26+infrastructure;From+the+kitchen+to+the+code;C+%7C+Python+%7C+Go+%7C+Docker" alt="Typing SVG" />
 </p>
 
-## 🧑‍💻 À propos
+## 🧑‍💻 What I can do
 
-Étudiant à **42 Paris**, passé par les cuisines (commis puis chef) avant de coder.
-Ça m'a appris la rigueur, le travail en équipe et la gestion du rush, et je les retrouve dans mes projets.
-J'aime comprendre comment les choses marchent en dessous : Linux, C, conteneurs, et en ce moment un peu d'IA.
-Je suis aussi secrétaire du **BDE** de l'école et tuteur pendant les piscines.
+- **Systems**: C programming, Linux, terminal workflows, low-level debugging
+- **Infra**: multi-container Docker stacks, SSH, self-hosting
+- **AI**: autonomous code agent, RAG pipeline, neural network written from scratch
+- **Tools & web**: Python, Go, websites connected to the 42 API (orders, tournaments, virtual currency)
 
-## 🔎 Ce que je cherche
+## 🚀 Projects
 
-**Stage / alternance** à partir de `<mois année>`, `<durée>`. Ouvert sur le dev back, systèmes/infra, IA/ML.
-📫 Contact : `<email>` · [LinkedIn](https://www.linkedin.com/in/TON-PROFIL)
-
-## 🚀 Projets
-
-| Projet | Description | Stack |
+| Project | Description | Stack |
 |---|---|---|
-| [**Agent Smith**](https://github.com/AnatoleFarenc/REPO) | Agent de code autonome (boucle Thought / Code / Observation) évalué sur MBPP et SWE-bench, avec sandbox | Python, LLM |
-| [**RAG sur vLLM**](https://github.com/AnatoleFarenc/REPO) | Pipeline de retrieval sur la codebase de vLLM | Python, LLM |
-| [**Inception**](https://github.com/AnatoleFarenc/REPO) | Infra multi-conteneurs (Nginx, WordPress, MariaDB) from scratch | Docker, Linux |
-| [**MNIST from scratch**](https://github.com/AnatoleFarenc/REPO) | Réseau de neurones codé à la main, sans framework | Python, NumPy |
-| [**txqr**](https://github.com/AnatoleFarenc/REPO) | Transfert de fichiers par QR codes (fountain codes) | Go |
-| [**Pac-Man raycasting**](https://github.com/AnatoleFarenc/REPO) | Pac-Man en pseudo-3D | Python, Pygame |
-| **Sites du BDE** | Commande de sandwichs et tournois de jeux, connectés à l'API 42 | `<stack>` |
+| [**Agent Smith**](https://github.com/AnatoleFarenc/REPO) | Autonomous code agent (Thought / Code / Observation loop) evaluated on MBPP and SWE-bench, with a sandbox | Python, LLM |
+| [**RAG on vLLM**](https://github.com/AnatoleFarenc/REPO) | Retrieval pipeline over the vLLM codebase | Python, LLM |
+| [**Inception**](https://github.com/AnatoleFarenc/REPO) | Multi-container infrastructure (Nginx, WordPress, MariaDB) built from scratch | Docker, Linux |
+| [**MNIST from scratch**](https://github.com/AnatoleFarenc/REPO) | Neural network coded by hand, no framework | Python, NumPy |
+| [**txqr**](https://github.com/AnatoleFarenc/REPO) | File transfer over QR codes (fountain codes) | Go |
+| [**Pac-Man raycasting**](https://github.com/AnatoleFarenc/REPO) | Pac-Man in pseudo-3D | Python, Pygame |
+| **BDE websites** | Sandwich ordering and game tournaments, connected to the 42 API | `<stack>` |
 
 ## 🛠️ Stack
 
@@ -56,5 +51,9 @@ Je suis aussi secrétaire du **BDE** de l'école et tuteur pendant les piscines.
 
 <img
   src="https://raw.githubusercontent.com/AnatoleFarenc/AnatoleFarenc/output/github-snake-dark.svg"
-  alt="Mes contributions GitHub"
+  alt="My GitHub contributions"
 />
+
+---
+
+📫 [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE) · `<email>`
