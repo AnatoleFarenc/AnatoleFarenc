@@ -70,5 +70,3 @@
 ## Contributions
 
 <img alt="My GitHub contributions" src="https://raw.githubusercontent.com/AnatoleFarenc/AnatoleFarenc/output/github-snake-dark.svg" />
-
-📫 LinkedIn · <email>
