@@ -42,7 +42,7 @@
   </tr>
   <tr>
     <td>
-        <a href="https://github.com/AnatoleFarenc/RAG"><img alt="RAG" src="https://github-stats-extended.vercel.app/api/pin/?username=AnatoleFarenc&repo=RAG&theme=gruvbox&cache_seconds=1800" /></a>
+        <a href="https://github.com/AnatoleFarenc/RAG"><img alt="RAG" src="https://github-stats-extended.vercel.app/api/pin/?username=AnatoleFarenc&repo=RAG&theme=gruvbox&cache_seconds=1801" /></a>
     </td>
     <td>
         <a href="https://github.com/AnatoleFarenc/Constrained-Decoding"><img alt="Constrained-Decoding" src="https://github-stats-extended.vercel.app/api/pin/?username=AnatoleFarenc&repo=Constrained-Decoding&theme=gruvbox&cache_seconds=1800" /></a>
