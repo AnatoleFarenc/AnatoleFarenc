@@ -1,11 +1,7 @@
 <h1 align="center">Hi, I'm Anatole 👋</h1>
 
 <p align="center">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=D79921&center=true&vCenter=true&width=520&lines=
-  Student+at+42+Perpignan;
-  Systems+%26+infrastructure;
-  From+the+kitchen+to+the+code;
-  C+%7C+Python+%7C+Go+%7C+Docker" />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=D79921&center=true&vCenter=true&width=520&lines=Student+at+42+Perpignan;Systems+%26+infrastructure;From+the+kitchen+to+the+code;C+%7C+Python+%7C+Go+%7C+Docker" />
 </p>
 
 ## Stack
