@@ -34,26 +34,26 @@
 <table>
   <tr>
     <td>
-        <a href="https://github.com/AnatoleFarenc/Pac-Man"><img alt="Pac-Man" src="https://github-stats-extended.vercel.app/api/pin/?username=AnatoleFarenc&repo=Pac-Man&theme=gruvbox&cache_seconds=18000" /></a>
+        <a href="https://github.com/AnatoleFarenc/Harness-Python"><img alt="Harness-Python" src="https://github-stats-extended.vercel.app/api/pin/?username=AnatoleFarenc&repo=Harness-Python&theme=gruvbox&cache_seconds=1800" /></a>
     </td>
+    <td>
+        <a href="https://github.com/AnatoleFarenc/Agent-MBPP-SWE"><img alt="Agent-MBPP-SWE" src="https://github-stats-extended.vercel.app/api/pin/?username=AnatoleFarenc&repo=Agent-MBPP-SWE&theme=gruvbox&cache_seconds=1800" /></a>
+    </td>
+  </tr>
+  <tr>
     <td>
         <a href="https://github.com/AnatoleFarenc/RAG"><img alt="RAG" src="https://github-stats-extended.vercel.app/api/pin/?username=AnatoleFarenc&repo=RAG&theme=gruvbox&cache_seconds=1800" /></a>
     </td>
-  </tr>
-  <tr>
     <td>
-        <a href="https://github.com/AnatoleFarenc/Harness-Python"><img alt="Harness-Python" src="https://github-stats-extended.vercel.app/api/pin/?username=AnatoleFarenc&repo=Harness-Python&theme=gruvbox" /></a>
-    </td>
-    <td>
-        <a href="https://github.com/AnatoleFarenc/Constrained-Decoding"><img alt="Constrained-Decoding" src="https://github-stats-extended.vercel.app/api/pin/?username=AnatoleFarenc&repo=Constrained-Decoding&theme=gruvbox" /></a>
+        <a href="https://github.com/AnatoleFarenc/Constrained-Decoding"><img alt="Constrained-Decoding" src="https://github-stats-extended.vercel.app/api/pin/?username=AnatoleFarenc&repo=Constrained-Decoding&theme=gruvbox&cache_seconds=1800" /></a>
     </td>
   </tr>
   <tr>
     <td>
-        <a href="https://github.com/AnatoleFarenc/Agent-MBPP-SWE"><img alt="Agent-MBPP-SWE" src="https://github-stats-extended.vercel.app/api/pin/?username=AnatoleFarenc&repo=Agent-MBPP-SWE&theme=gruvbox" /></a>
+        <a href="https://github.com/AnatoleFarenc/Docker-Scratch"><img alt="Docker-Scratch" src="https://github-stats-extended.vercel.app/api/pin/?username=AnatoleFarenc&repo=Docker-Scratch&theme=gruvbox&cache_seconds=1800" /></a>
     </td>
     <td>
-        <a href="https://github.com/AnatoleFarenc/Docker-Scratch"><img alt="Docker-Scratch" src="https://github-stats-extended.vercel.app/api/pin/?username=AnatoleFarenc&repo=Docker-Scratch&theme=gruvbox" /></a>
+        <a href="https://github.com/AnatoleFarenc/Pac-Man"><img alt="Pac-Man" src="https://github-stats-extended.vercel.app/api/pin/?username=AnatoleFarenc&repo=Pac-Man&theme=gruvbox&cache_seconds=1800" /></a>
     </td>
   </tr>
 </table>
